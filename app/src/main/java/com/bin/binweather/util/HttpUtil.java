@@ -1,5 +1,7 @@
 package com.bin.binweather.util;
 
+import com.bin.binweather.gson.Weather;
+
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
 
